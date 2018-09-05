@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: 换坑
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+简书的帐号手机号被我意外解除了绑定，加上国内现在的规定，不允许绑定国外手机好，于是就用不了了。捣鼓了一个小时用Hexo，GitHub Page和一个不错的主题再搭建了一个blog。有空在这写写吧。再有空闲，可以加个disqus插件供人评论……但估计不会有人看，哈哈哈。尬写了一些毫无意义的东西，主要还是为了测试一下这个主题。
 
 ## Quick Start
 
