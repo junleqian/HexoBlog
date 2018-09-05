@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://blog.junleqian.com/"/>
   <updated>2018-09-05T01:08:07.650Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://blog.junleqian.com/</id>
   
   <author>
     <name>均乐</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/04/hello-world/"/>
-    <id>http://yoursite.com/2018/09/04/hello-world/</id>
+    <link href="http://blog.junleqian.com/2018/09/04/hello-world/"/>
+    <id>http://blog.junleqian.com/2018/09/04/hello-world/</id>
     <published>2018-09-05T01:08:07.650Z</published>
     <updated>2018-09-05T01:08:07.650Z</updated>
     
