@@ -1,2 +1,2 @@
 all:
-	cd blog && hexo generate --deploy
+	cd blog && npm install && hexo generate --deploy
