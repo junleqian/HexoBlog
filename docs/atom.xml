@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.junleqian.com/"/>
-  <updated>2018-09-10T04:34:16.807Z</updated>
+  <updated>2018-09-10T05:07:50.676Z</updated>
   <id>http://blog.junleqian.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>换坑</title>
-    <link href="http://blog.junleqian.com/2018/09/09/1/"/>
-    <id>http://blog.junleqian.com/2018/09/09/1/</id>
-    <published>2018-09-10T04:34:16.807Z</published>
-    <updated>2018-09-10T04:34:16.807Z</updated>
+    <title>追风之人</title>
+    <link href="http://blog.junleqian.com/2018/09/09/4/"/>
+    <id>http://blog.junleqian.com/2018/09/09/4/</id>
+    <published>2018-09-10T05:07:00.000Z</published>
+    <updated>2018-09-10T05:07:50.676Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;简书的帐号手机号被我意外解除了绑定，加上国内现在的规定，不允许绑定国外手机好，于是就用不了了。捣鼓了一个小时用Hexo，GitHub
+          &lt;p&gt;我希望我可以一直追着风而跑，这样的我充满信念与力量。难道这样错了吗？多年来的追逐最终让我感到有一点点累。&lt;/p&gt;
+&lt;p&gt;并不是说我没有达到十年前给自己所定下的目标，只是我在尝到了一个个新的胜利果实的时候，我越来越没有办法感到充实与快乐。我原本以为金钱可以使我掌控许多事，但是
         
       
     
@@ -40,10 +41,10 @@
   
   <entry>
     <title>Adagio</title>
-    <link href="http://blog.junleqian.com/2018/09/09/2/"/>
-    <id>http://blog.junleqian.com/2018/09/09/2/</id>
-    <published>2018-09-10T04:34:16.807Z</published>
-    <updated>2018-09-10T04:34:16.807Z</updated>
+    <link href="http://blog.junleqian.com/2018/09/08/2/"/>
+    <id>http://blog.junleqian.com/2018/09/08/2/</id>
+    <published>2018-09-08T17:50:10.000Z</published>
+    <updated>2018-09-10T05:05:56.683Z</updated>
     
     <summary type="html">
     
@@ -62,11 +63,11 @@
   </entry>
   
   <entry>
-    <title>守望相助</title>
-    <link href="http://blog.junleqian.com/2018/09/09/3/"/>
-    <id>http://blog.junleqian.com/2018/09/09/3/</id>
-    <published>2018-09-10T04:34:16.807Z</published>
-    <updated>2018-09-10T04:34:16.807Z</updated>
+    <title>换坑</title>
+    <link href="http://blog.junleqian.com/2018/09/07/1/"/>
+    <id>http://blog.junleqian.com/2018/09/07/1/</id>
+    <published>2018-09-08T04:40:12.000Z</published>
+    <updated>2018-09-10T05:05:32.886Z</updated>
     
     <summary type="html">
     
@@ -74,8 +75,7 @@
       
         
         
-          &lt;p&gt;搬运自个人简书&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/junleqian/HexoBlog/raw/master/assets/images/watchman.png&quot; alt=&quot;alt text&quot; title=&quot;《守望者》平装版封面
+          &lt;p&gt;简书的帐号手机号被我意外解除了绑定，加上国内现在的规定，不允许绑定国外手机好，于是就用不了了。捣鼓了一个小时用Hexo，GitHub
         
       
     
@@ -85,11 +85,11 @@
   </entry>
   
   <entry>
-    <title>追风之人</title>
-    <link href="http://blog.junleqian.com/2018/09/09/4/"/>
-    <id>http://blog.junleqian.com/2018/09/09/4/</id>
-    <published>2018-09-10T04:34:16.807Z</published>
-    <updated>2018-09-10T04:34:16.807Z</updated>
+    <title>守望相助</title>
+    <link href="http://blog.junleqian.com/2017/12/06/3/"/>
+    <id>http://blog.junleqian.com/2017/12/06/3/</id>
+    <published>2017-12-06T22:10:00.000Z</published>
+    <updated>2018-09-10T05:07:33.886Z</updated>
     
     <summary type="html">
     
@@ -97,8 +97,8 @@
       
         
         
-          &lt;p&gt;我希望我可以一直追着风而跑，这样的我充满信念与力量。难道这样错了吗？多年来的追逐最终让我感到有一点点累。&lt;/p&gt;
-&lt;p&gt;并不是说我没有达到十年前给自己所定下的目标，只是我在尝到了一个个新的胜利果实的时候，我越来越没有办法感到充实与快乐。我原本以为金钱可以使我掌控许多事，但是
+          &lt;p&gt;搬运自个人简书&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/junleqian/HexoBlog/raw/master/assets/images/watchman.png&quot; alt=&quot;alt text&quot; title=&quot;《守望者》平装版封面
         
       
     
