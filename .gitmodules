@@ -1,0 +1,3 @@
+[submodule "blog/themes/hexo-theme-typography"]
+	path = blog/themes/hexo-theme-typography
+	url = https://github.com/junleqian/hexo-theme-typography.git
