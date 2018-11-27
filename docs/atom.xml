@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>拾乐园</title>
+  <title>乐布朗占卜师</title>
   
-  
+  <subtitle>自我实现 &amp; 自我超越。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.junleqian.com/"/>
-  <updated>2018-09-29T07:58:16.200Z</updated>
+  <updated>2018-11-27T20:36:14.000Z</updated>
   <id>http://blog.junleqian.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.junleqian.com/2018/09/29/14/"/>
     <id>http://blog.junleqian.com/2018/09/29/14/</id>
     <published>2018-09-29T07:15:00.000Z</published>
-    <updated>2018-09-29T07:58:16.200Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -46,7 +46,7 @@
     <link href="http://blog.junleqian.com/2018/09/22/13/"/>
     <id>http://blog.junleqian.com/2018/09/22/13/</id>
     <published>2018-09-23T04:58:00.000Z</published>
-    <updated>2018-09-23T05:11:48.644Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -73,7 +73,7 @@
     <link href="http://blog.junleqian.com/2018/09/17/12/"/>
     <id>http://blog.junleqian.com/2018/09/17/12/</id>
     <published>2018-09-18T01:39:00.000Z</published>
-    <updated>2018-09-18T01:52:37.857Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -97,7 +97,7 @@
     <link href="http://blog.junleqian.com/2018/09/14/11/"/>
     <id>http://blog.junleqian.com/2018/09/14/11/</id>
     <published>2018-09-15T04:27:00.000Z</published>
-    <updated>2018-09-15T06:46:48.144Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -122,7 +122,7 @@
     <link href="http://blog.junleqian.com/2018/09/12/10/"/>
     <id>http://blog.junleqian.com/2018/09/12/10/</id>
     <published>2018-09-13T05:00:00.000Z</published>
-    <updated>2018-09-13T05:21:44.072Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -147,7 +147,7 @@
     <link href="http://blog.junleqian.com/2018/09/10/6/"/>
     <id>http://blog.junleqian.com/2018/09/10/6/</id>
     <published>2018-09-11T03:33:00.000Z</published>
-    <updated>2018-09-15T04:22:15.210Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -172,7 +172,7 @@
     <link href="http://blog.junleqian.com/2018/09/09/4/"/>
     <id>http://blog.junleqian.com/2018/09/09/4/</id>
     <published>2018-09-10T05:07:00.000Z</published>
-    <updated>2018-09-10T19:13:43.066Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -197,7 +197,7 @@
     <link href="http://blog.junleqian.com/2018/09/08/2/"/>
     <id>http://blog.junleqian.com/2018/09/08/2/</id>
     <published>2018-09-08T17:50:10.000Z</published>
-    <updated>2018-09-10T05:20:45.283Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -213,9 +213,9 @@
     </summary>
     
     
-      <category term="乐评" scheme="http://blog.junleqian.com/tags/%E4%B9%90%E8%AF%84/"/>
-    
       <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+      <category term="乐评" scheme="http://blog.junleqian.com/tags/%E4%B9%90%E8%AF%84/"/>
     
   </entry>
   
@@ -224,7 +224,7 @@
     <link href="http://blog.junleqian.com/2018/09/07/1/"/>
     <id>http://blog.junleqian.com/2018/09/07/1/</id>
     <published>2018-09-08T04:40:12.000Z</published>
-    <updated>2018-09-10T05:05:32.886Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -246,7 +246,7 @@
     <link href="http://blog.junleqian.com/2018/02/18/9/"/>
     <id>http://blog.junleqian.com/2018/02/18/9/</id>
     <published>2018-02-18T15:10:00.000Z</published>
-    <updated>2018-09-10T19:38:43.596Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -261,11 +261,11 @@
     </summary>
     
     
-      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
-    
       <category term="日常" scheme="http://blog.junleqian.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
       <category term="人生感想" scheme="http://blog.junleqian.com/tags/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
@@ -274,7 +274,7 @@
     <link href="http://blog.junleqian.com/2017/12/06/3/"/>
     <id>http://blog.junleqian.com/2017/12/06/3/</id>
     <published>2017-12-06T22:10:00.000Z</published>
-    <updated>2018-09-15T04:06:22.593Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -299,7 +299,7 @@
     <link href="http://blog.junleqian.com/2017/12/03/5/"/>
     <id>http://blog.junleqian.com/2017/12/03/5/</id>
     <published>2017-12-03T21:33:00.000Z</published>
-    <updated>2018-09-10T05:37:09.463Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -324,7 +324,7 @@
     <link href="http://blog.junleqian.com/2016/11/07/7/"/>
     <id>http://blog.junleqian.com/2016/11/07/7/</id>
     <published>2016-11-07T19:52:00.000Z</published>
-    <updated>2018-09-10T19:34:26.203Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
@@ -348,7 +348,7 @@
     <link href="http://blog.junleqian.com/2016/08/14/8/"/>
     <id>http://blog.junleqian.com/2016/08/14/8/</id>
     <published>2016-08-15T04:05:00.000Z</published>
-    <updated>2018-09-10T19:34:00.016Z</updated>
+    <updated>2018-11-27T20:36:14.000Z</updated>
     
     <summary type="html">
     
