@@ -7,3 +7,6 @@
 [submodule "blog/themes/jsimple"]
 	path = blog/themes/jsimple
 	url = https://github.com/hejianxian/hexo-theme-jane.git
+[submodule "blog/themes/nayo"]
+	path = blog/themes/nayo
+	url = https://github.com/Lemonreds/hexo-theme-Nayo
