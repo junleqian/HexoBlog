@@ -4,3 +4,6 @@
 [submodule "blog/themes/jane"]
 	path = blog/themes/jane
 	url = https://github.com/hejianxian/hexo-theme-jane.git
+[submodule "blog/themes/jsimple"]
+	path = blog/themes/jsimple
+	url = https://github.com/hejianxian/hexo-theme-jane.git
