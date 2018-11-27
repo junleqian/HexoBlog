@@ -10,3 +10,6 @@
 [submodule "blog/themes/nayo"]
 	path = blog/themes/nayo
 	url = https://github.com/Lemonreds/hexo-theme-Nayo
+[submodule "blog/themes/junle-nayo"]
+	path = blog/themes/junle-nayo
+	url = https://github.com/junleqian/hexo-theme-nayo.git
