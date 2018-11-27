@@ -103,3 +103,8 @@ feed:
   content:
   content_limit: 140
   content_limit_delim: ' '
+
+# Search
+search:
+  path: search.xml
+  field: post
