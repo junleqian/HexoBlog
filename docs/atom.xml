@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.junleqian.com/"/>
-  <updated>2018-11-27T20:36:14.000Z</updated>
+  <updated>2018-11-28T19:54:54.000Z</updated>
   <id>http://blog.junleqian.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Moody Blues</title>
+    <link href="http://blog.junleqian.com/2018/11/28/15/"/>
+    <id>http://blog.junleqian.com/2018/11/28/15/</id>
+    <published>2018-11-28T19:25:50.000Z</published>
+    <updated>2018-11-28T19:54:54.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;周一晚上去健身房练了胸和背。长期不训练，卧推做两边25lb都要死要活的，深感羞愧。科学健身对于某一个区块的肌群来说，几乎是一个以周为单位的长期训练计划。有时候我在想，之所以难以坚持，是不是我真的就没有办法在重量训练中找到乐趣。或许这跟弹钢琴一样，需要相当一段时间的枯燥积累才
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常" scheme="http://blog.junleqian.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>平静生活</title>
@@ -263,9 +287,9 @@
     
       <category term="日常" scheme="http://blog.junleqian.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
-      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
-    
       <category term="人生感想" scheme="http://blog.junleqian.com/tags/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
