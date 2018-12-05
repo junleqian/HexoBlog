@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.junleqian.com/"/>
-  <updated>2018-11-28T20:02:29.000Z</updated>
+  <updated>2018-12-05T07:01:02.962Z</updated>
   <id>http://blog.junleqian.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>セラノス</title>
+    <link href="http://blog.junleqian.com/2018/12/04/16/"/>
+    <id>http://blog.junleqian.com/2018/12/04/16/</id>
+    <published>2018-12-04T20:02:22.000Z</published>
+    <updated>2018-12-05T07:01:02.962Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;终于读完了John Carreyrou的《Bad Blood》一书。John
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日常" scheme="http://blog.junleqian.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="读书" scheme="http://blog.junleqian.com/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Moody Blues</title>
     <link href="http://blog.junleqian.com/2018/11/28/15/"/>
     <id>http://blog.junleqian.com/2018/11/28/15/</id>
     <published>2018-11-28T19:25:50.000Z</published>
-    <updated>2018-11-28T20:02:29.000Z</updated>
+    <updated>2018-12-05T05:52:25.599Z</updated>
     
     <summary type="html">
     
@@ -45,7 +71,7 @@
     <link href="http://blog.junleqian.com/2018/09/29/14/"/>
     <id>http://blog.junleqian.com/2018/09/29/14/</id>
     <published>2018-09-29T07:15:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-29T07:58:16.200Z</updated>
     
     <summary type="html">
     
@@ -70,7 +96,7 @@
     <link href="http://blog.junleqian.com/2018/09/22/13/"/>
     <id>http://blog.junleqian.com/2018/09/22/13/</id>
     <published>2018-09-23T04:58:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-23T05:11:48.644Z</updated>
     
     <summary type="html">
     
@@ -97,7 +123,7 @@
     <link href="http://blog.junleqian.com/2018/09/17/12/"/>
     <id>http://blog.junleqian.com/2018/09/17/12/</id>
     <published>2018-09-18T01:39:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-18T01:52:37.857Z</updated>
     
     <summary type="html">
     
@@ -121,7 +147,7 @@
     <link href="http://blog.junleqian.com/2018/09/14/11/"/>
     <id>http://blog.junleqian.com/2018/09/14/11/</id>
     <published>2018-09-15T04:27:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-15T06:46:48.144Z</updated>
     
     <summary type="html">
     
@@ -146,7 +172,7 @@
     <link href="http://blog.junleqian.com/2018/09/12/10/"/>
     <id>http://blog.junleqian.com/2018/09/12/10/</id>
     <published>2018-09-13T05:00:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-13T05:21:44.072Z</updated>
     
     <summary type="html">
     
@@ -171,7 +197,7 @@
     <link href="http://blog.junleqian.com/2018/09/10/6/"/>
     <id>http://blog.junleqian.com/2018/09/10/6/</id>
     <published>2018-09-11T03:33:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-15T04:22:15.210Z</updated>
     
     <summary type="html">
     
@@ -196,7 +222,7 @@
     <link href="http://blog.junleqian.com/2018/09/09/4/"/>
     <id>http://blog.junleqian.com/2018/09/09/4/</id>
     <published>2018-09-10T05:07:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-10T19:13:43.066Z</updated>
     
     <summary type="html">
     
@@ -221,7 +247,7 @@
     <link href="http://blog.junleqian.com/2018/09/08/2/"/>
     <id>http://blog.junleqian.com/2018/09/08/2/</id>
     <published>2018-09-08T17:50:10.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-10T05:20:45.283Z</updated>
     
     <summary type="html">
     
@@ -237,9 +263,9 @@
     </summary>
     
     
-      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
-    
       <category term="乐评" scheme="http://blog.junleqian.com/tags/%E4%B9%90%E8%AF%84/"/>
+    
+      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
@@ -248,7 +274,7 @@
     <link href="http://blog.junleqian.com/2018/09/07/1/"/>
     <id>http://blog.junleqian.com/2018/09/07/1/</id>
     <published>2018-09-08T04:40:12.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-10T05:05:32.886Z</updated>
     
     <summary type="html">
     
@@ -270,7 +296,7 @@
     <link href="http://blog.junleqian.com/2018/02/18/9/"/>
     <id>http://blog.junleqian.com/2018/02/18/9/</id>
     <published>2018-02-18T15:10:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-10T19:38:43.596Z</updated>
     
     <summary type="html">
     
@@ -285,11 +311,11 @@
     </summary>
     
     
+      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
+    
       <category term="日常" scheme="http://blog.junleqian.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
       <category term="人生感想" scheme="http://blog.junleqian.com/tags/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%83%B3/"/>
-    
-      <category term="影评" scheme="http://blog.junleqian.com/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
@@ -298,7 +324,7 @@
     <link href="http://blog.junleqian.com/2017/12/06/3/"/>
     <id>http://blog.junleqian.com/2017/12/06/3/</id>
     <published>2017-12-06T22:10:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-15T04:06:22.593Z</updated>
     
     <summary type="html">
     
@@ -323,7 +349,7 @@
     <link href="http://blog.junleqian.com/2017/12/03/5/"/>
     <id>http://blog.junleqian.com/2017/12/03/5/</id>
     <published>2017-12-03T21:33:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-10T05:37:09.463Z</updated>
     
     <summary type="html">
     
@@ -348,7 +374,7 @@
     <link href="http://blog.junleqian.com/2016/11/07/7/"/>
     <id>http://blog.junleqian.com/2016/11/07/7/</id>
     <published>2016-11-07T19:52:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-10T19:34:26.203Z</updated>
     
     <summary type="html">
     
@@ -372,7 +398,7 @@
     <link href="http://blog.junleqian.com/2016/08/14/8/"/>
     <id>http://blog.junleqian.com/2016/08/14/8/</id>
     <published>2016-08-15T04:05:00.000Z</published>
-    <updated>2018-11-27T20:36:14.000Z</updated>
+    <updated>2018-09-10T19:34:00.016Z</updated>
     
     <summary type="html">
     

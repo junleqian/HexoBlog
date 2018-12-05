@@ -1,6 +1,3 @@
-[submodule "blog/blog/themes/typography"]
-	path = blog/blog/themes/typography
-	url = https://github.com/junleqian/hexo-theme-typography.git
 [submodule "blog/themes/jane"]
 	path = blog/themes/jane
 	url = https://github.com/hejianxian/hexo-theme-jane.git
